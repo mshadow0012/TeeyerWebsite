@@ -381,16 +381,16 @@ blockquote span{
     margin-bottom: 8px;
 }
 .misc-info{
-    font-size: 14px;
-    color: var(--dark);
-    margin-top: 16px;
-}
-.price-title{
     font-size: 20px;
     font-weight: 900;
 }
 .price-text{
     font-weight: 300;
+}
+.price-title{
+    font-size: 14px;
+    color: var(--dark);
+    margin-top: 16px;
 }
 
 /*************** end of price.html ***********/
