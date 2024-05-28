@@ -394,8 +394,8 @@ blockquote span{
 }
 .price-image{
     width: 100%;
-    height: 100px;
-    object-fit: cover;
+    height: 400px;
+    object-fit: contain;
 }
 
 
