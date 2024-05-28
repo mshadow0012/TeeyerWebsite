@@ -392,6 +392,13 @@ blockquote span{
     color: var(--dark);
     margin-top: 16px;
 }
+.price-image{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+}
+
+
 
 /*************** end of price.html ***********/
 
