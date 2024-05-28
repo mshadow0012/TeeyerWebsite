@@ -397,7 +397,11 @@ blockquote span{
     height: 350px;
     object-fit: fill;
 }
-
+.price-weddding{
+    width: 100%;
+    height: 500px;
+    object-fit: fill;
+}
 
 
 /*************** end of price.html ***********/
