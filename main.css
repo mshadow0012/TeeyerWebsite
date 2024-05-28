@@ -373,7 +373,7 @@ blockquote span{
 }
 .badge{
     background: var(--lightGreen);
-    width: 140px;
+    width: 280px;
     border-radius: 5px;
     padding: 5px 0;
     color: #fff;
@@ -394,8 +394,8 @@ blockquote span{
 }
 .price-image{
     width: 100%;
-    height: 400px;
-    object-fit: contain;
+    height: 350px;
+    object-fit: fill;
 }
 
 
